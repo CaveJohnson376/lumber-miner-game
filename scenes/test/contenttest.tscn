@@ -1,0 +1,7 @@
+[gd_scene format=2]
+
+[node name="root" type="Node"]
+
+[node name="game" type="Spatial" parent="."]
+
+[node name="staticobjects" type="Spatial" parent="game"]
